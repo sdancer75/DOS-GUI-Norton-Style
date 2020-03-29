@@ -1,7 +1,11 @@
 # DOS-GUI-Norton-Style
 A Norton's Utilities like GUI I developed in Turbo Pascal and Assembly
 
-Comments inside the source code are in Greek Language. Find the SetGreek.com file to enable the Greek characters and translate them using google translate.
+Comments inside the source code are in Greek Language. So, find the SetGreek.com file to enable the Greek characters and translate them using google translate.
+
+I have also designed a character generator and loadfont application but I really dont remember where the heck I stored the source files.
+
+Just to mention I designed this User Interface when I was 19 years old !!!
 
 
 ![QSort 1](/images/qsort_000.png)
