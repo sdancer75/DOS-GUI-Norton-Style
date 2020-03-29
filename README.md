@@ -36,3 +36,4 @@ Just to mention, I designed this DOS User Interface when I was 19 years old !!!
 ![QSort 9](/images/qsort_008.png)
 
 ![Loadfont](/FONTS/Loadfont.jpg)
+![FontEdit](/FONTS/FontEdit.jpg)
