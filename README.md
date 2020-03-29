@@ -13,8 +13,13 @@ Comments inside the source code are in Greek Language. So, find the SetGreek.com
 
 OOP Folder : Object Oriented Programming Libraries in Turbo Pascal 7 and inline assembly
 OBJ Folder : Some external Assembly libraries
+FONTS Folder : Some custom DOS fonts I created with my application FontEdit.exe. You can load them in the DosBox with the following syntax: Loadfont filename.syb
 
-I have also designed a character generator and loadfont application but I really dont remember where the heck I stored the source files.
+*.syb filenames are font symbols you can load.
+
+![Loadfont](/FONTS/Loadfont.jpg)
+
+The character generator (FontEdit) and LoadFont application are also developed under Turbo Pascal, but I really dont remember where the heck I stored the source files.
 
 Just to mention, I designed this DOS User Interface when I was 19 years old !!!
 
