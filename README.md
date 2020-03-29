@@ -1,7 +1,18 @@
 # DOS-GUI-Norton-Style
-A Norton's Utilities like GUI I developed in Turbo Pascal and Assembly
+A Norton's Utilities like (G)UI I developed in Turbo Pascal and Assembly. The (G) is inside in parenthesis, because the lirbary is not Graphical but in Text despite the fact it looks like.
+
+Some features of the library.
+
+- Smooth Mouse Movement in arrow shape
+- Windows Content Movement with Overlapping Management including Shadows
+- Redesigned basic objects like input boxes, drop down menus, buttons etc
+- Memory Management
+- OnLine Help compiled in one single file .HLP 
 
 Comments inside the source code are in Greek Language. So, find the SetGreek.com file to enable the Greek characters and translate them using google translate.
+
+OOP Folder : Object Oriented Programming Libraries in Turbo Pascal 7 and inline assembly
+OBJ Folder : Some external Assembly libraries
 
 I have also designed a character generator and loadfont application but I really dont remember where the heck I stored the source files.
 
