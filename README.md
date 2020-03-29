@@ -5,7 +5,7 @@ Comments inside the source code are in Greek Language. So, find the SetGreek.com
 
 I have also designed a character generator and loadfont application but I really dont remember where the heck I stored the source files.
 
-Just to mention I designed this User Interface when I was 19 years old !!!
+Just to mention, I designed this DOS User Interface when I was 19 years old !!!
 
 
 ![QSort 1](/images/qsort_000.png)
