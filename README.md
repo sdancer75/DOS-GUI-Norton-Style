@@ -24,6 +24,8 @@ The character generator (FontEdit) and LoadFont application are also developed u
 
 Just to mention, I designed this DOS User Interface when I was 19 years old !!!
 
+** EDIT 02/11/2024: I found the source code of the QSORT. The original and English-translated versions are inside the QSORT folder. I also added an example folder that contains sample code for using PullDown Menus and other UI Objects.
+
 
 ![QSort 1](/images/qsort_000.png)
 ![QSort 2](/images/qsort_001.png)
@@ -34,6 +36,11 @@ Just to mention, I designed this DOS User Interface when I was 19 years old !!!
 ![QSort 7](/images/qsort_006.png)
 ![QSort 8](/images/qsort_007.png)
 ![QSort 9](/images/qsort_008.png)
+![Menus 1](/examples/Menus.jpg)
+![Format 1](/examples/format.jpg)
+![QPack](/examples/quickPack.jpg)
+![Tree1](/examples/treeExample.jpg)
+![Tree2](/examples/treeExample2.jpg)
 
 ![Loadfont](/FONTS/Loadfont.jpg)
 ![FontEdit](/FONTS/FontEdit.jpg)
